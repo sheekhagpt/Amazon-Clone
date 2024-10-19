@@ -1,2 +1,2 @@
 # Amazon-Clone
-Amazon Clone
+Amazon Clone Author:Sheekha Gupta
